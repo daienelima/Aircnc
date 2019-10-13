@@ -9,13 +9,14 @@ Usando NodeJs e ReactJs e React Native eo RealTime
 ``` shell
 * BackEnd 
 $ npm install ou yarn install (instala todas as dependencias o projeto)
-$ npm run dev ou yarn dev (inicia a api http://localhost:3000)
+$ npm run dev ou yarn dev (http://localhost:3000)
 
 * FrontEnd
 $ npm install ou yarn install (instala todas as dependencias o projeto)
-$ npm start ou yarn start (inicia http://localhost:3001)
+$ npm start ou yarn start (http://localhost:3001)
 
 * Mobile 
-$ npm start ou yarn start (Iniciar emulador android)
+$ Iniciar emulador android e em seguida
+$ npm start ou yarn start
 
 ```
