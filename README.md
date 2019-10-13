@@ -1,4 +1,4 @@
-<h1 align="center"><br><img src="mobile/src/assets/logo.svg" alt="Aircnc"><br><br>Aircnc 💻</h1>
+<h1 align="center"><br><img src="mobile/src/assets/logo.svg" alt="Aircnc"><br><br> 💻</h1>
 
 ![banner](https://user-images.githubusercontent.com/33108277/66709609-4b624f00-ed3e-11e9-9cc5-9d59b8e74853.png)
 
