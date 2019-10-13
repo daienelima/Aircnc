@@ -3,7 +3,8 @@
 ![banner](https://user-images.githubusercontent.com/33108277/66709609-4b624f00-ed3e-11e9-9cc5-9d59b8e74853.png)
 
 Aplicação completa BackEnd , FrontEnd e Mobile 
-Usando NodeJs e ReactJs e React Native eo RealTime  
+
+Usando NodeJs, ReactJse React Native e RealTime  
 ### Como Executar
 
 ``` shell
