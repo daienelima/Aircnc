@@ -16,7 +16,7 @@ $ npm install ou yarn install (instala todas as dependencias o projeto)
 $ npm start ou yarn start (http://localhost:3001)
 
 * Mobile 
-$ Iniciar emulador android e em seguida
+$ Iniciar emulador e em seguida
 $ npm start ou yarn start
 
 ```
